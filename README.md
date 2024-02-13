@@ -1,0 +1,1 @@
+This project utilizes machine learning techniques to detect brain tumors in MRI (Magnetic Resonance Imaging) scanned images. The goal is to develop an accurate and efficient system for early detection of brain tumors, which can aid medical professionals in diagnosis and treatment planning.
